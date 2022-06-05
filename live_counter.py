@@ -8,7 +8,7 @@ st.set_page_config(
     layout="wide",
 )
 
-st.title("Streamlit Live Counter") 
+st.title("Streamlit Live Counter")   
 
 placeholder = st.empty()
 
